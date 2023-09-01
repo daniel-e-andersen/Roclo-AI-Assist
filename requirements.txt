@@ -1,0 +1,87 @@
+boto3
+pymssql
+psycopg
+psycopg_binary
+langchain_postgres
+langgraph
+opik
+neo4j
+awscli
+pandas
+langchain_community
+html2text
+chainlit
+pymilvus[model]
+torch
+tensorflow
+flax
+asyncpg
+langchain_aws
+langchain_neo4j
+langchain_cerebras
+supabase
+schedule
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+# Initial project setup and basic structure
+
+# Bump Python version requirements
+
+# Update monitoring dashboards
+
+# Initialize Roclo AI Bot project
+
+# Refresh API keys and secrets
+
+# Add basic project structure
+
+# Initialize Roclo AI Bot project
+
+# Initialize Roclo AI Bot project
+
+# Initial project setup
+
+# Add basic project structure
+
+# Bump Python version requirements
+
+# Bump Python version requirements
+
+# Implement load tests for concurrent users
+
+# Add unit tests for rational planner
+
+# Update Docker base images
+
+# Refresh security certificates
+
+# Add unit tests for rational planner
+
+# Bump Python version requirements
+
+# Bump Python version requirements
+
+# Optimize memory usage patterns
+
+# Implement performance tests for vector search
+
+# Implement mock tests for external services
+
+# Refactor security implementations
+
+# Optimize resource allocation
+
+# Restructure database connection management
+
+# Clean up temporary files and logs
+
+# Refresh API keys and secrets
+
+# Refresh API keys and secrets
+
+# Refresh security certificates
+
+# Update CI/CD pipeline configuration
+
+# Optimize database query performance

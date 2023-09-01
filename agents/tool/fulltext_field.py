@@ -1,0 +1,108 @@
+fulltext_node_fields = {
+    "company_name":True,
+    "company_country_code":False,
+    "company_ownership":True,
+    "company_website_url":False,
+    "company_investor_name":True,
+    "company_house_no":False,
+    "company_type":True,
+    "company_corporate_status":True,
+    "company_source_type":True,
+    "company_trading_status":True,
+    "company_sub_types":True,
+    "company_sectors":True,
+    "company_sub_sectors":True,
+    "company_profit_and_loss":False,
+    "company_balace_sheet":False,
+    "company_descriptions":True,
+    "user_name": True,
+    "user_email":False,
+    "user_phone_number":False,
+    "user_phone_code":False,
+    "office_name":True,
+    "office_street_address":True,
+    "office_postcode":True,
+    "office_phone_number":False,
+    "office_city":True,
+    "office_state":True,
+    "office_country_code":False,
+    "employee_email":False,
+    "employee_name":True,
+    "employee_landline_number":False,
+    "employee_mobile_number":False,
+    "employee_title":False,
+    "shareholder_name":True,
+    "project_name":True,
+    "project_stage":True,
+    "project_transaction_type":True,
+    "project_status":True,
+    "project_comment_text":True,
+    "opportunity_name":True,
+    "opportunity_pipeline":True,
+    "opportunity_pipeline_stage":True,
+    "opportunity_is_active":True,
+    "opportunity_lost_reason":True,
+    "opportunity_note_text":True,
+    "opportunity_activity_name":True,
+    "opportunity_activity_type":False,
+    "opportunity_activity_text":True,
+}
+
+fulltext_relationship_fields = {
+    "work_for_job_title":{
+        "name":"from_employee_to_company_work_for_job_title",
+        "fulltext_index":True
+    },
+    "have_employee_job_title":{
+        "name":"from_employee_to_company_have_employee_job_title",
+        "fulltext_index":True
+    },
+    "have_share_type":{
+        "name":"from_shareholder_to_company_have_share_type",
+        "fulltext_index":True
+    },
+    "have_share_currency":{
+        "name":"from_shareholder_to_company_have_share_currency",
+        "fulltext_index":False
+    },
+    "have_shareholder_type":{
+        "name":"from_company_to_shareholder_have_shareholder_type",
+        "fulltext_index":True
+    },
+    "have_shareholder_currency":{
+        "name":"from_companty_to_shareholder_have_shareholder_currency",
+        "fulltext_index":False
+    },
+    "access_category":{
+        "name":"from_commpany_to_project_access_category",
+        "fulltext_index":True
+    },
+    "access_rank":{
+        "name":"from_commpany_to_project_access_rank",
+        "fulltext_index":True
+    },
+    "access_stage":{
+        "name":"from_commpany_to_project_access_stage",
+        "fulltext_index":True
+    },
+    "accessed_by_category":{
+        "name":"from_project_to_company_accessed_by_category",
+        "fulltext_index":True
+    },
+    "accessed_by_rank":{
+        "name":"from_project_to_company_accessed_by_rank",
+        "fulltext_index":True
+    },
+    "accessed_by_stage":{
+        "name":"from_project_to_company_accessed_by_stage",
+        "fulltext_index":True
+    }
+}
+
+# Mapping full-text index names to their corresponding graph labels
+fulltext_name_to_label = {
+    "fulltext_company_descriptions":"Company",
+    "fulltext_project_comment_text":"Proejct",
+    "fulltext_opportunity_note_text":"Opportunity_note",
+    "fulltext_opportunity_activity_text":"Opportunity_activity"
+}

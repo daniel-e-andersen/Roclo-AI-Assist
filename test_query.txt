@@ -1,0 +1,34 @@
+  SELECT 
+    deal_id,
+    target_name,
+    target_business_description,
+    target_industry,
+    target_sector,
+    buyer_name,
+    seller_name,
+    deal_type,
+    CAST(date_closed AS VARCHAR) AS date_closed,
+    oaklins_member_firm,
+    oaklins_main_contact,
+    oaklins_main_contact_email,
+    target_country
+  FROM oaklins_deals
+  WHERE target_industry LIKE '%footwear%'
+    OR target_sector LIKE '%footwear%'
+    OR target_business_description LIKE '%footwear%'
+    OR buyer_industry LIKE '%footwear%'
+    OR buyer_sector LIKE '%footwear%'
+    OR buyer_business_description LIKE '%footwear%'
+    OR seller_industry LIKE '%footwear%'
+    OR seller_sector LIKE '%footwear%'
+    OR seller_business_description LIKE '%footwear%'
+    OR target_industry LIKE '%shoe%'
+    OR target_sector LIKE '%shoe%'
+    OR target_business_description LIKE '%shoe%'
+    OR buyer_industry LIKE '%shoe%'
+    OR buyer_sector LIKE '%shoe%'
+    OR buyer_business_description LIKE '%shoe%'
+    OR seller_industry LIKE '%shoe%'
+    OR seller_sector LIKE '%shoe%'
+    OR seller_business_description LIKE '%shoe%'
+  ORDER BY date_closed DESC

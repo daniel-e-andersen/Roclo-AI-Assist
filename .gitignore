@@ -1,0 +1,65 @@
+__pycache__
+.chainlit
+.files
+.env
+
+logs
+
+kg_population/graph_transformer/outputs
+kg_population/sql_transformer/outputs
+kg_population/sql_transformer/inputs
+
+csv
+
+volumes
+
+credentials.json
+token.json
+
+test.json
+test.py
+# Initial project setup and basic structure
+
+# Refresh API keys and secrets
+
+# Add basic project structure
+
+# Update dependencies to latest versions
+
+# Clean up deprecated code
+
+# Bump Python version requirements
+
+# Initial project setup
+
+# Implement integration tests for database operations
+
+# Refresh security certificates
+
+# Bump Python version requirements
+
+# Implement stress tests for system limits
+
+# Implement performance tests for vector search
+
+# Refactor security implementations
+
+# Clean up temporary files and logs
+
+# Update CI/CD pipeline configuration
+
+# Refresh security certificates
+
+# Bump Python version requirements
+
+# Update monitoring dashboards
+
+# Update Docker base images
+
+# Clean up deprecated code
+
+# Bump Python version requirements
+
+# Update CI/CD pipeline configuration
+
+# Bump Python version requirements

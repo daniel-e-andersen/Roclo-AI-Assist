@@ -1,0 +1,67 @@
+from pymilvus import DataType
+
+vector_schema = {
+    "collection_name":"company_descriptions",  
+    "schema":{
+        "auto_id":True,
+        "enable_dynamic_field":False,
+        "schema":[
+            {
+                "field_name":"id",
+                "datatype":DataType.INT64,
+                "is_primary":True
+            },
+            {
+                "field_name":"deal_id",
+                "datatype":DataType.INT64
+            },
+            {
+                "field_name":"text",
+                "datatype":DataType.VARCHAR,
+                "max_length":20480
+            },
+            {
+                "field_name":"title",
+                "datatype":DataType.VARCHAR,
+                "max_length":20480
+            },
+            {
+                "field_name":"vector",
+                "datatype":DataType.FLOAT_VECTOR,
+                "dim":1024,
+            }
+        ]
+    },
+    "index_params":[
+        {
+            "field_name":"id",
+            "index_type":"STL_SORT"
+        },
+        {
+            "field_name":"deal_id",
+            "index_type":"STL_SORT"
+        },
+        {
+            "field_name":"text",
+            "index_type":"Trie"
+        },
+        {
+            "field_name":"title",
+            "index_type":"Trie"
+        },
+        {
+            "field_name":"vector",
+            "index_type":"FLAT",
+            "metric_type":"COSINE",
+        }
+    ],
+    "values":{
+        "table":"descriptions",
+        "vector_col":"text",
+        "model":"jina-embeddings-v3",
+        "task":"retrieval.passage",
+        "dimensions":1024,
+        "target_keys": ["target_business_description", "buyer_business_description", "seller_business_description"],
+        "metadata":["deal_id", "text", "title"],
+    }
+}
