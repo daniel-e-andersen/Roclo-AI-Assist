@@ -1691,3 +1691,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update dependencies to latest versions -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Update README with installation instructions -->
