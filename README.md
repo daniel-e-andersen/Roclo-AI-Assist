@@ -1689,3 +1689,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix memory leaks in vector processing -->
 
 <!-- Update dependencies to latest versions -->
+
+<!-- Add troubleshooting section -->
