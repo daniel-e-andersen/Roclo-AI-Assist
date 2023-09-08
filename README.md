@@ -1693,3 +1693,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Bump Python version requirements -->
