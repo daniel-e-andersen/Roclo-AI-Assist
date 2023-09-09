@@ -1699,3 +1699,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add Google Sheets API integration -->
 
 <!-- Implement Milvus vector database support -->
+
+<!-- Add DynamoDB chat history management -->
