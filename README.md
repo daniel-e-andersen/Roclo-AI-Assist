@@ -1695,3 +1695,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update README with installation instructions -->
 
 <!-- Bump Python version requirements -->
+
+<!-- Add Google Sheets API integration -->
