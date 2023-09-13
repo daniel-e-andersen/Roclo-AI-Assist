@@ -1701,3 +1701,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Add DynamoDB chat history management -->
+
+<!-- Add troubleshooting section -->
