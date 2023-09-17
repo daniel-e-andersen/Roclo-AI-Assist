@@ -1703,3 +1703,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Fix memory leaks in vector processing -->
