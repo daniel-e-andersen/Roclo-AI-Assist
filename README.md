@@ -1705,3 +1705,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Fix memory leaks in vector processing -->
+
+<!-- Resolve Neo4j connection pooling issues -->
