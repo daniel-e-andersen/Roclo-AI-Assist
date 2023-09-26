@@ -1719,3 +1719,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Add advanced error recovery -->
+
+<!-- Add API documentation -->
