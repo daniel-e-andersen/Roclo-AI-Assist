@@ -1723,3 +1723,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add API documentation -->
 
 <!-- Optimize vector database performance -->
+
+<!-- Add LangChain orchestration -->
