@@ -1727,3 +1727,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Add DynamoDB chat history management -->
