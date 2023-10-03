@@ -1729,3 +1729,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Add DynamoDB chat history management -->
+
+<!-- Fix session management bugs -->
