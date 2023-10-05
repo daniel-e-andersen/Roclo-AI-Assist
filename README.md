@@ -1731,3 +1731,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Fix session management bugs -->
+
+<!-- Resolve query generation edge cases -->
