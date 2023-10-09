@@ -1735,3 +1735,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Update configuration guide -->
