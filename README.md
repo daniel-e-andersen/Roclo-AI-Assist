@@ -1737,3 +1737,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Update configuration guide -->
+
+<!-- Implement Chainlit UI interface -->
