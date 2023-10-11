@@ -1739,3 +1739,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update configuration guide -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Resolve PostgreSQL deadlock issues -->
