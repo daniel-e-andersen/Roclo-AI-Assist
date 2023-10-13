@@ -1743,3 +1743,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve PostgreSQL deadlock issues -->
 
 <!-- Resolve PostgreSQL deadlock issues -->
+
+<!-- Resolve Neo4j connection pooling issues -->
