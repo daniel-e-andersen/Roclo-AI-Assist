@@ -1759,3 +1759,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add query generator functionality -->
 
 <!-- Fix session management bugs -->
+
+<!-- Refresh security certificates -->
