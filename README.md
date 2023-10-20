@@ -1761,3 +1761,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix session management bugs -->
 
 <!-- Refresh security certificates -->
+
+<!-- Add LangChain orchestration -->
