@@ -1783,3 +1783,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add query generator functionality -->
 
 <!-- Add PostgreSQL database operations -->
+
+<!-- Update dependencies to latest versions -->
