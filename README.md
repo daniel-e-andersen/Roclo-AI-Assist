@@ -1785,3 +1785,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add PostgreSQL database operations -->
 
 <!-- Update dependencies to latest versions -->
+
+<!-- Implement Opik experiment tracking -->
