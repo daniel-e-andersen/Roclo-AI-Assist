@@ -1789,3 +1789,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Opik experiment tracking -->
 
 <!-- Implement advanced AI orchestration -->
+
+<!-- Implement plain augmenter for simple queries -->
