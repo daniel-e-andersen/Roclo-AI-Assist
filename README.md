@@ -1795,3 +1795,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix Milvus index corruption -->
 
 <!-- Implement data retriever agent -->
+
+<!-- Bump Python version requirements -->
