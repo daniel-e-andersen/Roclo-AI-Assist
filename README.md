@@ -1797,3 +1797,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Bump Python version requirements -->
+
+<!-- Add Google Sheets API integration -->
