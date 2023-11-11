@@ -1807,3 +1807,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement intelligent caching -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Bump Python version requirements -->
