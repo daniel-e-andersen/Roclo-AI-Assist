@@ -1805,3 +1805,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve Neo4j connection pooling issues -->
 
 <!-- Implement intelligent caching -->
+
+<!-- Update README with installation instructions -->
