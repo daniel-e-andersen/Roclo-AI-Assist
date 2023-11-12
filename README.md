@@ -1809,3 +1809,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update README with installation instructions -->
 
 <!-- Bump Python version requirements -->
+
+<!-- Implement plain augmenter for simple queries -->
