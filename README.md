@@ -1811,3 +1811,5 @@ The system includes automatic data refresh capabilities:
 <!-- Bump Python version requirements -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add DynamoDB chat history management -->
