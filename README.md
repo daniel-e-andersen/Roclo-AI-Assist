@@ -1813,3 +1813,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement plain augmenter for simple queries -->
 
 <!-- Add DynamoDB chat history management -->
+
+<!-- Implement entity extraction pipeline -->
