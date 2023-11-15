@@ -1815,3 +1815,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Add multi-agent architecture framework -->
