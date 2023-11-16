@@ -1821,3 +1821,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Implement dynamic load balancing -->
+
+<!-- Fix Milvus index corruption -->
