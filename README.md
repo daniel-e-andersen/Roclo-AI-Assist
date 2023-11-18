@@ -1825,3 +1825,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix Milvus index corruption -->
 
 <!-- Restructure database connection management -->
+
+<!-- Refresh security certificates -->
