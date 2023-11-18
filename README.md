@@ -1827,3 +1827,5 @@ The system includes automatic data refresh capabilities:
 <!-- Restructure database connection management -->
 
 <!-- Refresh security certificates -->
+
+<!-- Add Google Sheets API integration -->
