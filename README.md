@@ -1833,3 +1833,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix memory leaks in vector processing -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Add Neo4j knowledge graph integration -->
