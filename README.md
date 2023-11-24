@@ -1835,3 +1835,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Add Neo4j knowledge graph integration -->
+
+<!-- Fix Milvus index corruption -->
