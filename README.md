@@ -1839,3 +1839,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix Milvus index corruption -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Fix memory leaks in vector processing -->
