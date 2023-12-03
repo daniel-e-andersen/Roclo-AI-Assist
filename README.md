@@ -1851,3 +1851,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Resolve query generation edge cases -->
+
+<!-- Add LangChain orchestration -->
