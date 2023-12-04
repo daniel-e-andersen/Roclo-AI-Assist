@@ -1855,3 +1855,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Implement prioritizer for data sources -->
+
+<!-- Implement Chainlit UI interface -->
