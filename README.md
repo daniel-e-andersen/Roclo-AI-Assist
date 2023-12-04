@@ -1853,3 +1853,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Add LangChain orchestration -->
+
+<!-- Implement prioritizer for data sources -->
