@@ -1857,3 +1857,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Implement entity extraction pipeline -->
