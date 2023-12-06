@@ -1859,3 +1859,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Add table augmenter for data formatting -->
