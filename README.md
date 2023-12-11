@@ -1871,3 +1871,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement advanced AI orchestration -->
 
 <!-- Add advanced error recovery -->
+
+<!-- Add troubleshooting section -->
