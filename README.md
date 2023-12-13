@@ -1873,3 +1873,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add advanced error recovery -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Add table augmenter for data formatting -->
