@@ -1875,3 +1875,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Add table augmenter for data formatting -->
+
+<!-- Update configuration guide -->
