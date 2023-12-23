@@ -1883,3 +1883,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update README with installation instructions -->
 
 <!-- Implement Opik experiment tracking -->
+
+<!-- Implement data retriever agent -->
