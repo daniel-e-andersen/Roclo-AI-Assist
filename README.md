@@ -1891,3 +1891,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Add multi-agent architecture framework -->
