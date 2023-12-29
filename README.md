@@ -1893,3 +1893,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Implement Cerebras AI support -->
