@@ -1897,3 +1897,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Add comprehensive monitoring -->
+
+<!-- Update configuration guide -->
