@@ -1907,3 +1907,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Resolve Neo4j connection pooling issues -->
+
+<!-- Refresh security certificates -->
