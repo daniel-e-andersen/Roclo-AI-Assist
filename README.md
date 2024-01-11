@@ -1909,3 +1909,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve Neo4j connection pooling issues -->
 
 <!-- Refresh security certificates -->
+
+<!-- Implement entity extraction pipeline -->
