@@ -1911,3 +1911,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refresh security certificates -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Add query generator functionality -->
