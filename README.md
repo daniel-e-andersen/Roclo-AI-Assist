@@ -1913,3 +1913,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Add query generator functionality -->
+
+<!-- Update README with installation instructions -->
