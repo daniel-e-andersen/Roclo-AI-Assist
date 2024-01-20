@@ -1917,3 +1917,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update README with installation instructions -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Fix authentication flow issues -->
