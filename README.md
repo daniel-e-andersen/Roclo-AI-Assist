@@ -1919,3 +1919,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add multi-agent architecture framework -->
 
 <!-- Fix authentication flow issues -->
+
+<!-- Add AWS Bedrock integration -->
