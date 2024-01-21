@@ -1925,3 +1925,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix authentication flow issues -->
 
 <!-- Add API documentation -->
+
+<!-- Implement plain augmenter for simple queries -->
