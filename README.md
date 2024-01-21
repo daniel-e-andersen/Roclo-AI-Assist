@@ -1923,3 +1923,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add AWS Bedrock integration -->
 
 <!-- Fix authentication flow issues -->
+
+<!-- Add API documentation -->
