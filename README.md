@@ -1927,3 +1927,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add API documentation -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add API documentation -->
