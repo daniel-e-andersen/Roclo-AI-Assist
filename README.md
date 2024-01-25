@@ -1931,3 +1931,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add API documentation -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Fix Milvus index corruption -->
