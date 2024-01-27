@@ -1933,3 +1933,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add multi-agent architecture framework -->
 
 <!-- Fix Milvus index corruption -->
+
+<!-- Add Neo4j knowledge graph integration -->
