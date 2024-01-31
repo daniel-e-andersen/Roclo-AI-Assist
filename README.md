@@ -1939,3 +1939,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Implement Cerebras AI support -->
+
+<!-- Refactor query generation logic -->
