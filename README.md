@@ -1943,3 +1943,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Implement intelligent caching -->
+
+<!-- Refresh security certificates -->
