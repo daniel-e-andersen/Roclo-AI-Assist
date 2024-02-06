@@ -1947,3 +1947,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refresh security certificates -->
 
 <!-- Implement Supabase authentication -->
+
+<!-- Update Docker base images -->
