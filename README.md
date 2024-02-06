@@ -1949,3 +1949,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Supabase authentication -->
 
 <!-- Update Docker base images -->
+
+<!-- Implement Cerebras AI support -->
