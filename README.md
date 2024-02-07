@@ -1951,3 +1951,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update Docker base images -->
 
 <!-- Implement Cerebras AI support -->
+
+<!-- Add LangChain orchestration -->
