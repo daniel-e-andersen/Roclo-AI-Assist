@@ -1955,3 +1955,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Restructure database connection management -->
+
+<!-- Resolve query generation edge cases -->
