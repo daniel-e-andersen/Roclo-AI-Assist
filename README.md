@@ -1959,3 +1959,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Implement Opik experiment tracking -->
+
+<!-- Add result augmenter capabilities -->
