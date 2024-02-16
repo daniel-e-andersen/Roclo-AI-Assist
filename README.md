@@ -1965,3 +1965,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Add Neo4j knowledge graph integration -->
