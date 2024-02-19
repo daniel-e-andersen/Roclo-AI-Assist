@@ -1971,3 +1971,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add query generator functionality -->
 
 <!-- Update configuration guide -->
+
+<!-- Add Neo4j knowledge graph integration -->
