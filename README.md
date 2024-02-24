@@ -1975,3 +1975,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add Neo4j knowledge graph integration -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Resolve database connection timeouts -->
