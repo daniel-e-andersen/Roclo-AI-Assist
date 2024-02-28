@@ -1981,3 +1981,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add multi-agent architecture framework -->
 
 <!-- Resolve Neo4j connection pooling issues -->
+
+<!-- Update README with installation instructions -->
