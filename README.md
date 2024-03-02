@@ -1989,3 +1989,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Implement Milvus vector database support -->
