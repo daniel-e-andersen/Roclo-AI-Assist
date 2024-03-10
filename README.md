@@ -2005,3 +2005,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Add DynamoDB chat history management -->
+
+<!-- Update Docker base images -->
