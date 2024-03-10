@@ -2001,3 +2001,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update dependencies to latest versions -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Add LangChain orchestration -->
