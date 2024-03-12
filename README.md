@@ -2007,3 +2007,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Update Docker base images -->
+
+<!-- Add query generator functionality -->
