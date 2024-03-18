@@ -2023,3 +2023,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Resolve PostgreSQL deadlock issues -->
+
+<!-- Add AWS Bedrock integration -->
