@@ -2027,3 +2027,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add AWS Bedrock integration -->
 
 <!-- Implement Supabase authentication -->
+
+<!-- Implement intelligent caching -->
