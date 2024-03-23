@@ -2031,3 +2031,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement intelligent caching -->
 
 <!-- Update configuration guide -->
+
+<!-- Implement Milvus vector database support -->
