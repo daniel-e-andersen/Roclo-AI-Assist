@@ -2041,3 +2041,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Add table augmenter for data formatting -->
+
+<!-- Add troubleshooting section -->
