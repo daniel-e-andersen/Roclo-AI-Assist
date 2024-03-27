@@ -2045,3 +2045,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Resolve PostgreSQL deadlock issues -->
