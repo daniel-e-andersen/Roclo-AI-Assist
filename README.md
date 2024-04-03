@@ -2057,3 +2057,5 @@ The system includes automatic data refresh capabilities:
 <!-- Optimize vector search algorithms -->
 
 <!-- Resolve database connection timeouts -->
+
+<!-- Add table augmenter for data formatting -->
