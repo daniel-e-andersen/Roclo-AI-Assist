@@ -2061,3 +2061,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Resolve PostgreSQL deadlock issues -->
+
+<!-- Update README with installation instructions -->
