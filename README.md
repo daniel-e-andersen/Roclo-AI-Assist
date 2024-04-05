@@ -2063,3 +2063,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve PostgreSQL deadlock issues -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Add LangChain orchestration -->
