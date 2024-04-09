@@ -2071,3 +2071,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Resolve query generation edge cases -->
+
+<!-- Update dependencies to latest versions -->
