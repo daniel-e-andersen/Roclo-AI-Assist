@@ -2095,3 +2095,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Refactor agent architecture for better modularity -->
+
+<!-- Implement entity extraction pipeline -->
