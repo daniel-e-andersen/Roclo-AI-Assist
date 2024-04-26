@@ -2099,3 +2099,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Add table augmenter for data formatting -->
+
+<!-- Add table augmenter for data formatting -->
