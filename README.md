@@ -2103,3 +2103,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Fix session management bugs -->
+
+<!-- Add Neo4j knowledge graph integration -->
