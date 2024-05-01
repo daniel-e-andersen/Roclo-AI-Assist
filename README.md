@@ -2113,3 +2113,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Optimize vector database performance -->
+
+<!-- Add DynamoDB chat history management -->
