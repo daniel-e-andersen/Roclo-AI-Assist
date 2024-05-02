@@ -2115,3 +2115,5 @@ The system includes automatic data refresh capabilities:
 <!-- Optimize vector database performance -->
 
 <!-- Add DynamoDB chat history management -->
+
+<!-- Add API documentation -->
