@@ -2127,3 +2127,5 @@ The system includes automatic data refresh capabilities:
 <!-- Bump Python version requirements -->
 
 <!-- Add PostgreSQL database operations -->
+
+<!-- Add sophisticated query planning -->
