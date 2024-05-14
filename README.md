@@ -2139,3 +2139,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Add sophisticated query planning -->
+
+<!-- Fix authentication flow issues -->
