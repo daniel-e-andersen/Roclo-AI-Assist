@@ -2149,3 +2149,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Add API documentation -->
+
+<!-- Update Docker base images -->
