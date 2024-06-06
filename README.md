@@ -2161,3 +2161,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Implement Chainlit UI interface -->
