@@ -2169,3 +2169,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add PostgreSQL database operations -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Add advanced error recovery -->
