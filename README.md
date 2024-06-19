@@ -2177,3 +2177,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Refresh security certificates -->
+
+<!-- Implement plain augmenter for simple queries -->
