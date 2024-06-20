@@ -2179,3 +2179,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refresh security certificates -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add AWS Bedrock integration -->
