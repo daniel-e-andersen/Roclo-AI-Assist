@@ -2187,3 +2187,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Fix session management bugs -->
+
+<!-- Add AWS Bedrock integration -->
