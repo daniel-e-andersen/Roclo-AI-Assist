@@ -2185,3 +2185,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Opik experiment tracking -->
 
 <!-- Implement data retriever agent -->
+
+<!-- Fix session management bugs -->
