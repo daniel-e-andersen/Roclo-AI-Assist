@@ -2191,3 +2191,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add AWS Bedrock integration -->
 
 <!-- Fix memory leaks in vector processing -->
+
+<!-- Implement entity extraction pipeline -->
