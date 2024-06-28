@@ -2193,3 +2193,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix memory leaks in vector processing -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Implement plain augmenter for simple queries -->
