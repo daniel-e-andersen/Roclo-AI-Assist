@@ -2195,3 +2195,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add Google Sheets API integration -->
