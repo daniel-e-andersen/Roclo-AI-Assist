@@ -2197,3 +2197,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement plain augmenter for simple queries -->
 
 <!-- Add Google Sheets API integration -->
+
+<!-- Add table augmenter for data formatting -->
