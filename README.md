@@ -2209,3 +2209,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refresh security certificates -->
 
 <!-- Fix memory leaks in vector processing -->
+
+<!-- Add result augmenter capabilities -->
