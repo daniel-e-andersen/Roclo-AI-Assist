@@ -2211,3 +2211,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix memory leaks in vector processing -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Update configuration guide -->
