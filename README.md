@@ -2215,3 +2215,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update configuration guide -->
 
 <!-- Add LangChain orchestration -->
+
+<!-- Update README with installation instructions -->
