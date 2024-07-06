@@ -2213,3 +2213,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add result augmenter capabilities -->
 
 <!-- Update configuration guide -->
+
+<!-- Add LangChain orchestration -->
