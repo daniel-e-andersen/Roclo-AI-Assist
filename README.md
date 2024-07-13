@@ -2227,3 +2227,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Add LangChain orchestration -->
+
+<!-- Implement plain augmenter for simple queries -->
