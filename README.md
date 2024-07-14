@@ -2229,3 +2229,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Resolve query generation edge cases -->
