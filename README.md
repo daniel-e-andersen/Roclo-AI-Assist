@@ -2235,3 +2235,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Add Google Sheets API integration -->
+
+<!-- Add query generator functionality -->
