@@ -2241,3 +2241,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Fix session management bugs -->
+
+<!-- Refactor agent architecture for better modularity -->
