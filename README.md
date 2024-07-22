@@ -2245,3 +2245,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor agent architecture for better modularity -->
 
 <!-- Resolve PostgreSQL deadlock issues -->
+
+<!-- Refactor query generation logic -->
