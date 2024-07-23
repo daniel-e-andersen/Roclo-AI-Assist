@@ -2247,3 +2247,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve PostgreSQL deadlock issues -->
 
 <!-- Refactor query generation logic -->
+
+<!-- Add AWS Bedrock integration -->
