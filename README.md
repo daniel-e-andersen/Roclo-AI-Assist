@@ -2249,3 +2249,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Add AWS Bedrock integration -->
+
+<!-- Add result augmenter capabilities -->
