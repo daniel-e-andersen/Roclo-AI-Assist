@@ -2253,3 +2253,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add result augmenter capabilities -->
 
 <!-- Add AWS Bedrock integration -->
+
+<!-- Update configuration guide -->
