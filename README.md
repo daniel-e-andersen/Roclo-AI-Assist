@@ -2269,3 +2269,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refresh security certificates -->
 
 <!-- Implement data retriever agent -->
+
+<!-- Implement Milvus vector database support -->
