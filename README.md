@@ -2273,3 +2273,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Implement Supabase authentication -->
