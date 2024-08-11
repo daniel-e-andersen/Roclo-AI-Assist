@@ -2279,3 +2279,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement advanced security protocols -->
 
 <!-- Fix authentication flow issues -->
+
+<!-- Add troubleshooting section -->
