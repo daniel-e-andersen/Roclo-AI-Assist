@@ -2283,3 +2283,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Implement Supabase authentication -->
+
+<!-- Add query generator functionality -->
