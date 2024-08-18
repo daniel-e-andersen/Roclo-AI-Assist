@@ -2287,3 +2287,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add query generator functionality -->
 
 <!-- Add query generator functionality -->
+
+<!-- Refresh security certificates -->
