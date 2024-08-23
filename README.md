@@ -2293,3 +2293,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement plain augmenter for simple queries -->
 
 <!-- Implement prioritizer for data sources -->
+
+<!-- Implement Supabase authentication -->
