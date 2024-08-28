@@ -2295,3 +2295,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Implement Supabase authentication -->
+
+<!-- Fix Milvus index corruption -->
