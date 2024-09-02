@@ -2301,3 +2301,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Fix session management bugs -->
+
+<!-- Add Neo4j knowledge graph integration -->
