@@ -2307,3 +2307,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add query generator functionality -->
 
 <!-- Add comprehensive monitoring -->
+
+<!-- Update README with installation instructions -->
