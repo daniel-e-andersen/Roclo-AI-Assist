@@ -2315,3 +2315,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add comprehensive monitoring -->
 
 <!-- Add table augmenter for data formatting -->
+
+<!-- Fix Milvus index corruption -->
