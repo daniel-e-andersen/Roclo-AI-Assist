@@ -2317,3 +2317,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Fix Milvus index corruption -->
+
+<!-- Add Google Sheets API integration -->
