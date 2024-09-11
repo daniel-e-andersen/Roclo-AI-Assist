@@ -2325,3 +2325,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve database connection timeouts -->
 
 <!-- Implement Supabase authentication -->
+
+<!-- Add DynamoDB chat history management -->
