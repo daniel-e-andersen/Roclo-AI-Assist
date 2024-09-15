@@ -2329,3 +2329,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Add PostgreSQL database operations -->
+
+<!-- Resolve query generation edge cases -->
