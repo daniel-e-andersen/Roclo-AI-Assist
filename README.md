@@ -2331,3 +2331,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add PostgreSQL database operations -->
 
 <!-- Resolve query generation edge cases -->
+
+<!-- Implement Cerebras AI support -->
