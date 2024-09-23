@@ -2333,3 +2333,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Implement Cerebras AI support -->
+
+<!-- Resolve Neo4j connection pooling issues -->
