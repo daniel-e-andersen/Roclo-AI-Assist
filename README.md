@@ -2335,3 +2335,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Resolve Neo4j connection pooling issues -->
+
+<!-- Fix memory leaks in vector processing -->
