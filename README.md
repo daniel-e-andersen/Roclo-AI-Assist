@@ -2337,3 +2337,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve Neo4j connection pooling issues -->
 
 <!-- Fix memory leaks in vector processing -->
+
+<!-- Add troubleshooting section -->
