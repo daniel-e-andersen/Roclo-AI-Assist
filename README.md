@@ -2351,3 +2351,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add PostgreSQL database operations -->
 
 <!-- Resolve Neo4j connection pooling issues -->
+
+<!-- Add query generator functionality -->
