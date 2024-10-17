@@ -2361,3 +2361,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Opik experiment tracking -->
 
 <!-- Bump Python version requirements -->
+
+<!-- Add sophisticated query planning -->
