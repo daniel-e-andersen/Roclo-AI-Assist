@@ -2367,3 +2367,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add sophisticated query planning -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Add Neo4j knowledge graph integration -->
