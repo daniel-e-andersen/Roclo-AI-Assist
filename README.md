@@ -2377,3 +2377,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Fix authentication flow issues -->
+
+<!-- Refactor agent architecture for better modularity -->
