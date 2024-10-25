@@ -2383,3 +2383,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Add Google Sheets API integration -->
+
+<!-- Add Neo4j knowledge graph integration -->
