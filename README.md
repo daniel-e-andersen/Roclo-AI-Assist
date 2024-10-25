@@ -2381,3 +2381,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor agent architecture for better modularity -->
 
 <!-- Implement Milvus vector database support -->
+
+<!-- Add Google Sheets API integration -->
