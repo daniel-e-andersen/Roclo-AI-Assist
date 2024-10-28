@@ -2389,3 +2389,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Supabase authentication -->
 
 <!-- Refactor query generation logic -->
+
+<!-- Add comprehensive monitoring -->
