@@ -2393,3 +2393,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add comprehensive monitoring -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Implement Cerebras AI support -->
