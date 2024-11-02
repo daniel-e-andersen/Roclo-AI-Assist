@@ -2397,3 +2397,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add PostgreSQL database operations -->
