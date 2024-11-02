@@ -2391,3 +2391,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Add comprehensive monitoring -->
+
+<!-- Update README with installation instructions -->
