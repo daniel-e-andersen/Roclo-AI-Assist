@@ -2401,3 +2401,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add PostgreSQL database operations -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Refactor agent architecture for better modularity -->
