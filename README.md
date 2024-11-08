@@ -2409,3 +2409,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Update Docker base images -->
+
+<!-- Add troubleshooting section -->
