@@ -2411,3 +2411,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update Docker base images -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Add multi-agent architecture framework -->
