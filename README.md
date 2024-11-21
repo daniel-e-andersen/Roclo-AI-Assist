@@ -2419,3 +2419,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add API documentation -->
