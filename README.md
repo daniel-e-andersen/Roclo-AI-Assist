@@ -2431,3 +2431,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add sophisticated query planning -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Resolve PostgreSQL deadlock issues -->
