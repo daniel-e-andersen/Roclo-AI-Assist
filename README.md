@@ -2429,3 +2429,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add DynamoDB chat history management -->
 
 <!-- Add sophisticated query planning -->
+
+<!-- Add result augmenter capabilities -->
