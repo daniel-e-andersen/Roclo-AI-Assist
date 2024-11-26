@@ -2435,3 +2435,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve PostgreSQL deadlock issues -->
 
 <!-- Implement Chainlit UI interface -->
+
+<!-- Add multi-agent architecture framework -->
