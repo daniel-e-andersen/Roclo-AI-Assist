@@ -2437,3 +2437,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Refactor agent architecture for better modularity -->
