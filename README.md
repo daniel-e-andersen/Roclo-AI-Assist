@@ -2443,3 +2443,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve Neo4j connection pooling issues -->
 
 <!-- Refactor agent architecture for better modularity -->
+
+<!-- Add PostgreSQL database operations -->
