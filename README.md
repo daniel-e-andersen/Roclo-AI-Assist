@@ -2481,3 +2481,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update dependencies to latest versions -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Refactor query generation logic -->
