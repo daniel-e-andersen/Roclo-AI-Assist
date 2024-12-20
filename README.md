@@ -2479,3 +2479,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Update dependencies to latest versions -->
+
+<!-- Update README with installation instructions -->
