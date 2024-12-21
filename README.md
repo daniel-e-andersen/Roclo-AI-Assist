@@ -2487,3 +2487,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Opik experiment tracking -->
 
 <!-- Implement prioritizer for data sources -->
+
+<!-- Add troubleshooting section -->
