@@ -2491,3 +2491,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Add DynamoDB chat history management -->
