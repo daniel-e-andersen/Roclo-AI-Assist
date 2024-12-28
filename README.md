@@ -2497,3 +2497,5 @@ The system includes automatic data refresh capabilities:
 <!-- Restructure database connection management -->
 
 <!-- Add API documentation -->
+
+<!-- Add PostgreSQL database operations -->
