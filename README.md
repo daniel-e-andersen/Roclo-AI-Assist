@@ -2507,3 +2507,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Refactor query generation logic -->
+
+<!-- Add troubleshooting section -->
