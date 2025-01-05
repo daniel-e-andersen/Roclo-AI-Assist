@@ -2509,3 +2509,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Implement entity extraction pipeline -->
