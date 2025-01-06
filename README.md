@@ -2511,3 +2511,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Implement Milvus vector database support -->
