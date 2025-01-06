@@ -2513,3 +2513,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Implement Milvus vector database support -->
+
+<!-- Add PostgreSQL database operations -->
