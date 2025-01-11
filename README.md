@@ -2515,3 +2515,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Add PostgreSQL database operations -->
+
+<!-- Refactor query generation logic -->
