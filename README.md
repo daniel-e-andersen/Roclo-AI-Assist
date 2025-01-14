@@ -2527,3 +2527,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Implement Milvus vector database support -->
