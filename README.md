@@ -2535,3 +2535,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve database connection timeouts -->
 
 <!-- Implement advanced AI orchestration -->
+
+<!-- Add AWS Bedrock integration -->
