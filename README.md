@@ -2539,3 +2539,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add AWS Bedrock integration -->
 
 <!-- Optimize vector search algorithms -->
+
+<!-- Add PostgreSQL database operations -->
