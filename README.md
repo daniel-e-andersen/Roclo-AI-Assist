@@ -2545,3 +2545,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Add PostgreSQL database operations -->
+
+<!-- Refactor query generation logic -->
