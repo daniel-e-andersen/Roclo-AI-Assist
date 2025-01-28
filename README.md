@@ -2549,3 +2549,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Add Google Sheets API integration -->
+
+<!-- Refresh security certificates -->
