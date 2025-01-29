@@ -2551,3 +2551,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add Google Sheets API integration -->
 
 <!-- Refresh security certificates -->
+
+<!-- Update configuration guide -->
