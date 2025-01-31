@@ -2553,3 +2553,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refresh security certificates -->
 
 <!-- Update configuration guide -->
+
+<!-- Optimize vector database performance -->
