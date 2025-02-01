@@ -2557,3 +2557,5 @@ The system includes automatic data refresh capabilities:
 <!-- Optimize vector database performance -->
 
 <!-- Add AWS Bedrock integration -->
+
+<!-- Update README with installation instructions -->
