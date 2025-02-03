@@ -2559,3 +2559,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add AWS Bedrock integration -->
 
 <!-- Update README with installation instructions -->
+
+<!-- Update Docker base images -->
