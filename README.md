@@ -2565,3 +2565,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add multi-agent architecture framework -->
 
 <!-- Add Neo4j knowledge graph integration -->
+
+<!-- Update configuration guide -->
