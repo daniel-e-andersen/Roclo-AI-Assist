@@ -2563,3 +2563,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update Docker base images -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Add Neo4j knowledge graph integration -->
