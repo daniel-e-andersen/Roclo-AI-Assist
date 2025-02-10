@@ -2571,3 +2571,5 @@ The system includes automatic data refresh capabilities:
 <!-- Optimize vector database performance -->
 
 <!-- Fix session management bugs -->
+
+<!-- Update configuration guide -->
