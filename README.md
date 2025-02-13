@@ -2575,3 +2575,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update configuration guide -->
 
 <!-- Optimize vector search algorithms -->
+
+<!-- Add Neo4j knowledge graph integration -->
