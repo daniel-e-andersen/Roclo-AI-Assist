@@ -2579,3 +2579,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add Neo4j knowledge graph integration -->
 
 <!-- Implement intelligent caching -->
+
+<!-- Implement Cerebras AI support -->
