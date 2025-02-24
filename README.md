@@ -2583,3 +2583,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Cerebras AI support -->
 
 <!-- Implement Cerebras AI support -->
+
+<!-- Add Google Sheets API integration -->
