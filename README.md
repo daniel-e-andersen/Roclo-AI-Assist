@@ -2589,3 +2589,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Implement data retriever agent -->
+
+<!-- Implement plain augmenter for simple queries -->
