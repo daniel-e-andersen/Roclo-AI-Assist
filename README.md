@@ -2595,3 +2595,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add API documentation -->
 
 <!-- Add comprehensive monitoring -->
+
+<!-- Add Neo4j knowledge graph integration -->
