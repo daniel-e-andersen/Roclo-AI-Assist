@@ -2591,3 +2591,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Add API documentation -->
