@@ -2603,3 +2603,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add comprehensive monitoring -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Implement entity extraction pipeline -->
