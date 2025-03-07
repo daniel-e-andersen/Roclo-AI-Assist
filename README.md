@@ -2607,3 +2607,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Implement Opik experiment tracking -->
+
+<!-- Resolve PostgreSQL deadlock issues -->
