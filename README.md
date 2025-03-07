@@ -2605,3 +2605,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Implement Opik experiment tracking -->
