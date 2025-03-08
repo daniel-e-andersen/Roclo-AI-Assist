@@ -2609,3 +2609,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Opik experiment tracking -->
 
 <!-- Resolve PostgreSQL deadlock issues -->
+
+<!-- Implement data retriever agent -->
