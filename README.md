@@ -2611,3 +2611,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve PostgreSQL deadlock issues -->
 
 <!-- Implement data retriever agent -->
+
+<!-- Add LangChain orchestration -->
