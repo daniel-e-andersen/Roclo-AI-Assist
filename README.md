@@ -2613,3 +2613,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Add LangChain orchestration -->
+
+<!-- Implement Chainlit UI interface -->
