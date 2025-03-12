@@ -2617,3 +2617,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Chainlit UI interface -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Fix authentication flow issues -->
