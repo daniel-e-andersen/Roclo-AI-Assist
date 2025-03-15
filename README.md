@@ -2623,3 +2623,5 @@ The system includes automatic data refresh capabilities:
 <!-- Optimize vector search algorithms -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Resolve Neo4j connection pooling issues -->
