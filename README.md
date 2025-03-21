@@ -2633,3 +2633,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add API documentation -->
 
 <!-- Implement Supabase authentication -->
+
+<!-- Add result augmenter capabilities -->
