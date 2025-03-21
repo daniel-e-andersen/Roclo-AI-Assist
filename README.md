@@ -2635,3 +2635,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Supabase authentication -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Fix memory leaks in vector processing -->
