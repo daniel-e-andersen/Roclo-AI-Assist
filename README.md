@@ -2637,3 +2637,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add result augmenter capabilities -->
 
 <!-- Fix memory leaks in vector processing -->
+
+<!-- Update Docker base images -->
