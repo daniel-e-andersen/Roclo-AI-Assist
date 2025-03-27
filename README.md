@@ -2643,3 +2643,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Resolve query generation edge cases -->
+
+<!-- Implement Milvus vector database support -->
