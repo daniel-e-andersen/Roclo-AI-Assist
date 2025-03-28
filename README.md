@@ -2645,3 +2645,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve query generation edge cases -->
 
 <!-- Implement Milvus vector database support -->
+
+<!-- Update dependencies to latest versions -->
