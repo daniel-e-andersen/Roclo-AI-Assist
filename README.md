@@ -2649,3 +2649,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update dependencies to latest versions -->
 
 <!-- Optimize vector search algorithms -->
+
+<!-- Add Google Sheets API integration -->
