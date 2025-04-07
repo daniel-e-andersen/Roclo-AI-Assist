@@ -2659,3 +2659,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Add multi-agent architecture framework -->
+
+<!-- Add AWS Bedrock integration -->
