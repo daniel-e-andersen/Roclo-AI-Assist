@@ -2665,3 +2665,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Implement Opik experiment tracking -->
+
+<!-- Bump Python version requirements -->
