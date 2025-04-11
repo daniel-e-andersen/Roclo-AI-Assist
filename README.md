@@ -2669,3 +2669,5 @@ The system includes automatic data refresh capabilities:
 <!-- Bump Python version requirements -->
 
 <!-- Implement prioritizer for data sources -->
+
+<!-- Fix Milvus index corruption -->
