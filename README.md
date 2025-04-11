@@ -2671,3 +2671,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement prioritizer for data sources -->
 
 <!-- Fix Milvus index corruption -->
+
+<!-- Refactor agent architecture for better modularity -->
