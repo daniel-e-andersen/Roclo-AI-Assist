@@ -2681,3 +2681,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Resolve query generation edge cases -->
