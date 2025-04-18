@@ -2679,3 +2679,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Add result augmenter capabilities -->
