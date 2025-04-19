@@ -2683,3 +2683,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add result augmenter capabilities -->
 
 <!-- Resolve query generation edge cases -->
+
+<!-- Add multi-agent architecture framework -->
