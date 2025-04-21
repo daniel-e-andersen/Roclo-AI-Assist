@@ -2687,3 +2687,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add multi-agent architecture framework -->
 
 <!-- Fix authentication flow issues -->
+
+<!-- Refactor query generation logic -->
