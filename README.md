@@ -2691,3 +2691,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor query generation logic -->
 
 <!-- Refactor query generation logic -->
+
+<!-- Fix Milvus index corruption -->
