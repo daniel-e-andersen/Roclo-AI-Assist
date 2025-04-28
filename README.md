@@ -2695,3 +2695,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix Milvus index corruption -->
 
 <!-- Resolve database connection timeouts -->
+
+<!-- Update configuration guide -->
