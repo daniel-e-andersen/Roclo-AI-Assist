@@ -2699,3 +2699,5 @@ The system includes automatic data refresh capabilities:
 <!-- Update configuration guide -->
 
 <!-- Implement Cerebras AI support -->
+
+<!-- Fix Milvus index corruption -->
