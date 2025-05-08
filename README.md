@@ -2713,3 +2713,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Supabase authentication -->
 
 <!-- Fix Milvus index corruption -->
+
+<!-- Add Neo4j knowledge graph integration -->
