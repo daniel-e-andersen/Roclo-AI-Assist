@@ -2723,3 +2723,5 @@ The system includes automatic data refresh capabilities:
 <!-- Resolve Neo4j connection pooling issues -->
 
 <!-- Add result augmenter capabilities -->
+
+<!-- Add query generator functionality -->
