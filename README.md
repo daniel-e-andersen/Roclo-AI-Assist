@@ -2731,3 +2731,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Refactor agent architecture for better modularity -->
