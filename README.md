@@ -2729,3 +2729,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Opik experiment tracking -->
 
 <!-- Add troubleshooting section -->
+
+<!-- Implement plain augmenter for simple queries -->
