@@ -2733,3 +2733,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement plain augmenter for simple queries -->
 
 <!-- Refactor agent architecture for better modularity -->
+
+<!-- Fix Milvus index corruption -->
