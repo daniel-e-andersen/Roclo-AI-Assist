@@ -2737,3 +2737,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix Milvus index corruption -->
 
 <!-- Refactor agent architecture for better modularity -->
+
+<!-- Implement entity extraction pipeline -->
