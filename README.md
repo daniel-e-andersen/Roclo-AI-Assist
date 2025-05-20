@@ -2741,3 +2741,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement entity extraction pipeline -->
 
 <!-- Fix memory leaks in vector processing -->
+
+<!-- Update Docker base images -->
