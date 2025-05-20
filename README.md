@@ -2739,3 +2739,5 @@ The system includes automatic data refresh capabilities:
 <!-- Refactor agent architecture for better modularity -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Fix memory leaks in vector processing -->
