@@ -2749,3 +2749,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix session management bugs -->
 
 <!-- Implement advanced AI orchestration -->
+
+<!-- Implement plain augmenter for simple queries -->
