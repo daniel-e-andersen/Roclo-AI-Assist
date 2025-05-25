@@ -2751,3 +2751,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement advanced AI orchestration -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Implement rational planner agent -->
