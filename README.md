@@ -2763,3 +2763,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add LangChain orchestration -->
 
 <!-- Implement data retriever agent -->
+
+<!-- Add query generator functionality -->
