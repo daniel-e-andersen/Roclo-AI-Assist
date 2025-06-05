@@ -2767,3 +2767,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add query generator functionality -->
 
 <!-- Implement plain augmenter for simple queries -->
+
+<!-- Implement dynamic load balancing -->
