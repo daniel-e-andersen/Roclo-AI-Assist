@@ -2765,3 +2765,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement data retriever agent -->
 
 <!-- Add query generator functionality -->
+
+<!-- Implement plain augmenter for simple queries -->
