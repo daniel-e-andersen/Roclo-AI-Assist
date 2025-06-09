@@ -2775,3 +2775,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add table augmenter for data formatting -->
 
 <!-- Add comprehensive monitoring -->
+
+<!-- Update configuration guide -->
