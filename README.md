@@ -2785,3 +2785,5 @@ The system includes automatic data refresh capabilities:
 <!-- Restructure database connection management -->
 
 <!-- Update configuration guide -->
+
+<!-- Bump Python version requirements -->
