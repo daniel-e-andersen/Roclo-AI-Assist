@@ -2807,3 +2807,5 @@ The system includes automatic data refresh capabilities:
 <!-- Fix memory leaks in vector processing -->
 
 <!-- Implement intelligent caching -->
+
+<!-- Add API documentation -->
