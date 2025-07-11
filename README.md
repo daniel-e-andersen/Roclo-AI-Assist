@@ -2809,3 +2809,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement intelligent caching -->
 
 <!-- Add API documentation -->
+
+<!-- Add query generator functionality -->
