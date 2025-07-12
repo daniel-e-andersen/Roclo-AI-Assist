@@ -2811,3 +2811,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add API documentation -->
 
 <!-- Add query generator functionality -->
+
+<!-- Add sophisticated query planning -->
