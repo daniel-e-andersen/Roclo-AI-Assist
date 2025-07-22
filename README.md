@@ -2823,3 +2823,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement dynamic load balancing -->
 
 <!-- Implement rational planner agent -->
+
+<!-- Implement Milvus vector database support -->
