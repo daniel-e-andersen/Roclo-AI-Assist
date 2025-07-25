@@ -2829,3 +2829,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement intelligent caching -->
 
 <!-- Implement Milvus vector database support -->
+
+<!-- Bump Python version requirements -->
