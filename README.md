@@ -2831,3 +2831,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Milvus vector database support -->
 
 <!-- Bump Python version requirements -->
+
+<!-- Add AWS Bedrock integration -->
