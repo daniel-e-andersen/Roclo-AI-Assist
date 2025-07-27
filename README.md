@@ -2835,3 +2835,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add AWS Bedrock integration -->
 
 <!-- Implement Opik experiment tracking -->
+
+<!-- Implement Supabase authentication -->
