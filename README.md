@@ -2839,3 +2839,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement Supabase authentication -->
 
 <!-- Implement entity extraction pipeline -->
+
+<!-- Fix session management bugs -->
