@@ -2845,3 +2845,5 @@ The system includes automatic data refresh capabilities:
 <!-- Implement rational planner agent -->
 
 <!-- Refactor agent architecture for better modularity -->
+
+<!-- Add troubleshooting section -->
