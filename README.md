@@ -2849,3 +2849,5 @@ The system includes automatic data refresh capabilities:
 <!-- Add troubleshooting section -->
 
 <!-- Implement advanced security protocols -->
+
+<!-- Add API documentation -->
